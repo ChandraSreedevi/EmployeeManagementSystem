@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Documentation/">
+    <File Path="Postman-API-Testing.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="../EmployeeManagementUI/EmployeeManagementUI.csproj" Id="a4845beb-691f-4961-bfa1-6cf51b2552b8" />
+  <Project Path="EmployeeManagementPKAPI.csproj" />
+</Solution>
