@@ -4,6 +4,7 @@
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="../EmployeeManagementUI/EmployeeManagementUI.csproj" Id="a4845beb-691f-4961-bfa1-6cf51b2552b8" />
   <Project Path="EmployeeManagementPKAPI.csproj" />
